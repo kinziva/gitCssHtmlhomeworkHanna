@@ -1,20 +1,34 @@
 
 ## Review
 
-# 01 HTML CSS Git: Code Refactor
+# 01 HTML CSS Git: Code Refactor Homework
+```
+  * used semantic HTML elements - nav, section, aside, header, footer, article
 
+  * html order starts with header, navigation, main section, side bar to the  footer at the bottom
 
-1-used semantic HTML elements - nav, section, aside, header, footer, article
-2-html order starts with header, navigation, main section, side bar to the  footer at the bottom
-3-added meaningful alt text for images to make them accesible
-4-Biggest title is the logo h1, then main content headings are one size smaller which is h2, then side bar heading are h3 the smallest heading size used. All rest is paragraph text 
-5-changed the website title from title to the speacific Horision Website
-6-added anchor links to the nav bar urls into the assigned content
-7-edited the css files, added sematic tags , removed repeated classes and combined into single class
-8-css file commented
-9-code pushed into the git repository named "gitCssHtmlhomeworkHanna"git 
+  * added meaningful alt text for images to make them accesible
+ 
+  * Biggest title is the logo h1, then main content headings are one size smaller which is h2, then side bar heading are h3 the smallest heading size used. All rest is paragraph text 
 
+  * changed the website title from title to the speacific Horision Website
 
+  * added anchor links to the nav bar urls into the assigned content
+
+  * edited the css files, added sematic tags , removed repeated classes and combined into single class
+
+  * css file commented
+
+  * code pushed into the git repository , live with no errors
+
+  * my githup -->  https://github.com/kinziva
+
+  * repository name "gitCssHtmlhomeworkHanna" --> https://github.com/kinziva/gitCssHtmlhomeworkHanna
+
+  * index file --> https://github.com/kinziva/gitCssHtmlhomeworkHanna/blob/main/Develop/index.html
+
+  * style sheet --> https://github.com/kinziva/gitCssHtmlhomeworkHanna/blob/main/Develop/assets/css/style.css
+```
 
 
 
