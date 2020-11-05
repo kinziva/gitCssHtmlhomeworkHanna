@@ -1,6 +1,26 @@
+
+## Review
+
 # 01 HTML CSS Git: Code Refactor
 
+
+1-used semantic HTML elements - nav, section, aside, header, footer, article
+2-html order starts with header, navigation, main section, side bar to the  footer at the bottom
+3-added meaningful alt text for images to make them accesible
+4-Biggest title is the logo h1, then main content headings are one size smaller which is h2, then side bar heading are h3 the smallest heading size used. All rest is paragraph text 
+5-changed the website title from title to the speacific Horision Website
+6-added anchor links to the nav bar urls into the assigned content
+7-edited the css files, added sematic tags , removed repeated classes and combined into single class
+8-css file commented
+9-code pushed into the git repository named "gitCssHtmlhomeworkHanna"git 
+
+
+
+
+
 ## Your Task
+
+
 
 **Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!
 

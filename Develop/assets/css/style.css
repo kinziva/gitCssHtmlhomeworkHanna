@@ -7,6 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
+/* Header */
 
 header {
     padding: 20px;
@@ -19,11 +20,12 @@ header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* logo grayed seo on Horiseon  */
 header h1 .seo {
     color: #d9dcd6;
 }
 
+/* navigation bar , urls on top right side */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,10 +48,12 @@ a {
     text-decoration: none;
 }
 
+/* all text size */
+
 p {
     font-size: 16px;
 }
-
+/* banner image at top */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,12 +73,14 @@ p {
     margin-left: 25px;
 }
 
+/* main content */
 section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* side bar */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -86,7 +92,26 @@ aside {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+/* side bar classes */
+
+.side-bar {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+.side-bar h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.side-bar img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* commented out repeated benefit classes below and combined all in .side-bar class */
+
+/* .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -101,7 +126,8 @@ aside {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+/* side bar h3 classes */
+/* .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -115,8 +141,8 @@ aside {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-lead img {
+/* side bar image classes */
+/* .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -132,9 +158,29 @@ aside {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}  */
+
+.main-section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
 }
 
-.search-engine-optimization {
+.main-section img {
+    max-height: 200px;
+}
+
+.main-section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+/* commented out repeated classes below and combined all in main-section class */
+
+/* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -159,9 +205,10 @@ aside {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.search-engine-optimization img {
+
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -186,7 +233,7 @@ aside {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
+} */
 
 footer {
     padding: 30px;
